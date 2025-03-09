@@ -1,6 +1,6 @@
-# Diagrama de Casos de Uso - Cajero Automático (CU: Sacar dinero y CU: Validación usuario)
+# Diagrama de Secuencias - Cajero Automático (CU: Sacar dinero y CU: Validación usuario)
 
-## Elementos de un diagrama de secuencia
+## Elementos de un diagrama de secuencias
 
 **Actor**: Representa a una entidad externa que inicia o interactúa con el sistema. En este caso, el Cliente es el actor que inicia el proceso, ingresando su PIN en el cajero automático.
 
